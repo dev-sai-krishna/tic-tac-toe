@@ -1,5 +1,5 @@
 import {useRef, useState} from 'react'
-import './TicTacToe.css'
+import '../styles/TicTacToe.css'
 import circle_icon from '../Assets/circle.png'
 import cross_icon from '../Assets/cross.png'
 
